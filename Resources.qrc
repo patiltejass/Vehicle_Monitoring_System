@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>warning.png</file>
+        <file>critical.jpg</file>
+        <file>check.png</file>
+    </qresource>
+</RCC>

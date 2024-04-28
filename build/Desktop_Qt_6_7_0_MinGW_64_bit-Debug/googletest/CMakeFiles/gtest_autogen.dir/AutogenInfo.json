@@ -1,0 +1,92 @@
+{
+	"BUILD_DIR" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/googletest/gtest_autogen",
+	"CMAKE_BINARY_DIR" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/googletest",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/googletest",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/googletest/CMakeLists.txt",
+		"D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/CMakeFiles/3.27.7/CMakeCCompiler.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCInformation.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/GNU.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/googletest/cmake/internal_utils.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem",
+	"DEP_FILE" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/googletest/gtest_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "gtest_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/googletest/gtest_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/googletest/gtest_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/googletest/include",
+		"D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/googletest",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+		"C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Tools/mingw1120_64/bin/g++.exe",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/googletest/gtest_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/googletest/CMakeFiles/gtest_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 7,
+	"SETTINGS_FILE" : "D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/googletest/CMakeFiles/gtest_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"D:/DELTA/GIthub/Learning24/QT/VehicleMonitoringSytem/googletest/src/gtest-all.cc",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
